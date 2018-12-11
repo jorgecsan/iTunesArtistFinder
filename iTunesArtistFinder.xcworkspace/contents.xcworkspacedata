@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:iTunesArtistFinder.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Podfile">
+   </FileRef>
+   <FileRef
+      location = "group:Podfile.lock">
+   </FileRef>
+   <Group
+      location = "group:Pods"
+      name = "Pods">
+      <FileRef
+         location = "group:Pods.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:AlamofireImage"
+         name = "AlamofireImage">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:ImageCache.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIImage+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:AFIError.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Image.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIButton+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ImageDownloader.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIImageView+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Request+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ImageFilter.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Alamofire"
+         name = "Alamofire">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:TaskDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:MultipartFormData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:NetworkReachabilityManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Timeline.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DispatchQueue+Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Result.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ParameterEncoding.swift">
+            </FileRef>
+            <FileRef
+               location = "group:AFError.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Validation.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Notifications.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Response.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Request.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ResponseSerialization.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ServerTrustPolicy.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionDelegate.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Target Support Files"
+         name = "Target Support Files">
+         <Group
+            location = "group:AlamofireImage"
+            name = "AlamofireImage">
+            <FileRef
+               location = "group:AlamofireImage-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Alamofire"
+            name = "Alamofire">
+            <FileRef
+               location = "group:Alamofire-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:SVProgressHUD"
+            name = "SVProgressHUD">
+            <FileRef
+               location = "group:SVProgressHUD-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Pods-UnidadEditorialTestUITests"
+            name = "Pods-UnidadEditorialTestUITests">
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-resources.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-frameworks.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-acknowledgements.markdown">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests.debug.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests.release.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests-acknowledgements.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestUITests.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Pods-UnidadEditorialTestTests"
+            name = "Pods-UnidadEditorialTestTests">
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-acknowledgements.markdown">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests.release.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-resources.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-acknowledgements.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests.debug.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTestTests-frameworks.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Pods-UnidadEditorialTest"
+            name = "Pods-UnidadEditorialTest">
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest.debug.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-acknowledgements.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest.release.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-resources.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-acknowledgements.markdown">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-UnidadEditorialTest-frameworks.sh">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Manifest.lock">
+      </FileRef>
+      <Group
+         location = "group:Local Podspecs"
+         name = "Local Podspecs">
+      </Group>
+      <Group
+         location = "group:SVProgressHUD"
+         name = "SVProgressHUD">
+         <Group
+            location = "group:SVProgressHUD"
+            name = "SVProgressHUD">
+            <FileRef
+               location = "group:SVRadialGradientLayer.m">
+            </FileRef>
+            <FileRef
+               location = "group:SVIndefiniteAnimatedView.h">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD.h">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressAnimatedView.m">
+            </FileRef>
+            <FileRef
+               location = "group:SVRadialGradientLayer.h">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD.m">
+            </FileRef>
+            <FileRef
+               location = "group:SVIndefiniteAnimatedView.m">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressHUD.bundle">
+            </FileRef>
+            <FileRef
+               location = "group:SVProgressAnimatedView.h">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <FileRef
+            location = "group:LICENSE.txt">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Headers"
+         name = "Headers">
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,6 @@
+framework module Pods_UnidadEditorialTestTests {
+  umbrella header "Pods-UnidadEditorialTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
